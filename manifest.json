@@ -1,0 +1,16 @@
+{
+    "name" : "Clear Export Options",
+    "identifier" : "ecc.clearexport",
+    "version" : "1.0",
+    "description" : "Clear export options for all elements in all pages.",
+    "tags": ["export", "slices", "elements", "unmake", "remove", "clear", "option", "assets"],
+    "authorEmail" : "emrerussia@gmail.com",
+    "author" : "Emre J. Joshkun",
+    "commands" : [{
+      "script" : "ClearExport.js",
+      "handler" : "onRun",
+      "shortcut" : "control cmd c",
+      "name" : "Clear Export Options For All Layers",
+      "identifier" : "ecc.clearexport.layers"
+    }],
+}
