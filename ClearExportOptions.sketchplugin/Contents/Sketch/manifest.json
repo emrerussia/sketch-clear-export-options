@@ -12,5 +12,5 @@
       "shortcut" : "control cmd c",
       "name" : "Clear Export Options For All Layers",
       "identifier" : "ecc.clearexport.layers"
-    }],
+    }]
 }
