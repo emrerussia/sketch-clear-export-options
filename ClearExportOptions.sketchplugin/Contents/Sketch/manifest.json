@@ -1,11 +1,12 @@
 {
     "name" : "Clear Export Options",
     "identifier" : "ecc.clearexport",
-    "version" : "1.0",
+    "version" : "2.0",
+    "homepage": "http://emrecc.com",
     "description" : "Clear export options for all elements on all pages.",
     "tags": ["export", "slices", "elements", "unmake", "remove", "clear", "option", "assets"],
     "authorEmail" : "emrerussia@gmail.com",
-    "author" : "Emre J. Joshkun",
+    "author" : "Emre C. Coskun",
     "commands" : [{
       "script" : "ClearExport.js",
       "handler" : "onRun",
