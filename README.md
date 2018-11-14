@@ -16,6 +16,6 @@ You’ll know its worked when you see the notification at the bottom of the scre
 
 ## Author
 
-Emre J. Joshkun
+Emre C. Coskun
 
 
